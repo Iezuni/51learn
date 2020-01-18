@@ -1,0 +1,15 @@
+.vs/*
+.vscode/*
+demo
+a.uvopt
+snake/Listings/*
+snake/Objects/*
+demo2/Objects/*
+demo2/Listings/*
+snake/a_uvproj.bak
+snake/a_uvopt.bak
+demo2/demo2.uvgui.navad
+demo2/demo2.uvopt
+snake/STARTUP.A51
+snake/a.uvgui.navad
+snake/a.uvgui_navad.bak
